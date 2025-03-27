@@ -1,6 +1,8 @@
 # N Gauge (`ngauge`)
 
-A homelab-scale PaaS based on [Railpack](https://github.com/railwayapp/railpack). 
+A homelab-scale PaaS based on [Railpack](https://github.com/railwayapp/railpack).
+
+This project is currently intended to be an experiment and personal challenge in building things. _If you want a "production ready" self-hosted PaaS you should check out [Coolify](https://coolify.io/)._
 
 ## Goals
 
